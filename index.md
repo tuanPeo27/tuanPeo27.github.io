@@ -34,7 +34,7 @@ The platform focuses on building a clean, maintainable architecture and implemen
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/tuanPeo27/InteractHub_SocialMedia)
 
-<center><img src="images/InteractHub.png.png"/></center>
+<center><img src="images/InteractHub.png"/></center>
 
 ---
 
@@ -68,7 +68,7 @@ The system integrates modern AI technologies such as LangChain, FAISS, and LLMs 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/ChickenFriedC/SmartDoc-AI)
 
-<center><img src="images/smartdoc-AI.png.png"/></center>
+<center><img src="images/smartdoc-AI.png"/></center>
 
 ---
 
