@@ -31,7 +31,11 @@ The platform focuses on building a clean, maintainable architecture and implemen
 - Database: SQL Server
 - Authentication: JWT (JSON Web Token)
 - Architecture: RESTful API, layered architecture
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/tuanPeo27/InteractHub_SocialMedia)
+
+<center><img src="images/InteractHub.png.png"/></center>
+
 
 ## SmartDoc AI - Intelligent Document Q&A System
 
@@ -60,7 +64,10 @@ The system integrates modern AI technologies such as LangChain, FAISS, and LLMs 
 - Qwen2.5 LLM
 - Streamlit / Web UI
 - Document processing libraries (PyPDF, etc.)
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/ChickenFriedC/SmartDoc-AI)
+<center><img src="images/smartdoc-AI.png.png"/></center>
+
 
 ## Freelance Web
 
