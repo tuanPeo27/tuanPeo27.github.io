@@ -36,6 +36,7 @@ The platform focuses on building a clean, maintainable architecture and implemen
 
 <center><img src="images/InteractHub.png.png"/></center>
 
+---
 
 ## SmartDoc AI - Intelligent Document Q&A System
 
@@ -66,8 +67,10 @@ The system integrates modern AI technologies such as LangChain, FAISS, and LLMs 
 - Document processing libraries (PyPDF, etc.)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/ChickenFriedC/SmartDoc-AI)
+
 <center><img src="images/smartdoc-AI.png.png"/></center>
 
+---
 
 ## Freelance Web
 
@@ -91,6 +94,8 @@ Users can create accounts, post job requirements, submit proposals, and manage p
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/tuanPeo27/FreelanceWeb)
 
 <center><img src="images/freelance-web.png"/></center>
+
+---
 
 ## Smart Bus Tracking System
 
