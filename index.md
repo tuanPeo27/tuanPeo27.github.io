@@ -7,6 +7,32 @@ Hi, I'm **Huỳnh Lê Anh Tuấn**, a Software Developer passionate about buildi
 
 # Projects
 
+## InteractHub - SocialMedia
+
+A full-stack social media application designed to enable users to connect, interact, and share content in real time. The system is built with a modern architecture using ASP.NET Core for the backend and React for the frontend, ensuring high performance, scalability, and a responsive user experience.
+
+The backend provides a robust RESTful API for handling authentication, user management, posts, comments, and notifications, while the frontend delivers a dynamic and interactive interface for seamless user interaction.
+
+The platform focuses on building a clean, maintainable architecture and implementing essential social networking features, making it a practical project for real-world application development.
+
+**Key Features**
+
+- User authentication and authorization (JWT-based)
+- Create, edit, and delete posts
+- Like, comment, and interact with posts
+- Friend request and user connection system
+- Real-time or near real-time notifications
+- News feed displaying relevant content
+- Secure API with role-based access control
+- Responsive and user-friendly UI
+**Technologies**
+- Backend: ASP.NET Core Web API, Entity Framework Core
+- Frontend: React.js, Axios
+- Database: SQL Server
+- Authentication: JWT (JSON Web Token)
+- Architecture: RESTful API, layered architecture
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/tuanPeo27/InteractHub_SocialMedia)
+
 ## SmartDoc AI - Intelligent Document Q&A System
 
 A document-based question answering system built using Retrieval-Augmented Generation (RAG) architecture. The system allows users to upload documents and ask questions, and it generates accurate answers by retrieving relevant information from the documents and combining it with responses from a Large Language Model.
@@ -34,10 +60,7 @@ The system integrates modern AI technologies such as LangChain, FAISS, and LLMs 
 - Qwen2.5 LLM
 - Streamlit / Web UI
 - Document processing libraries (PyPDF, etc.)
-
-<!-- [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/tuanPeo27/FreelanceWeb)
-
-<center><img src="images/freelance-web.png"/></center> -->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-blue?logo=github)](https://github.com/ChickenFriedC/SmartDoc-AI)
 
 ## Freelance Web
 
